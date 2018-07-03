@@ -50,6 +50,7 @@ $trad = array(
 <body>
 <div id='elements'>
     <img id="image" src="./images/pablo_1.png"/>
+    <label for="text" style="display:none;visibility:hidden;opacity:0"></label>
     <input id="text" name="text" type="text" value="<?php echo $text; ?>" maxlength="30"/>
     <input id="pic" name="pic" type="file" accept="image/*"/>
 </div>
