@@ -103,3 +103,12 @@ a {
     text-align: center;
 	transition: opacity 0.2s;
 }
+
+#github a {
+    text-indent: -99999999px;
+    background: url(../images/github.png);
+    display: block;
+    background-size: 100% 100%;
+    width: 20px;
+    height: 20px;
+}

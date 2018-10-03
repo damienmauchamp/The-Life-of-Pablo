@@ -77,9 +77,9 @@ $trad = array(
     <div class="link" id='github'>
         <a target="about_blank" href="http://github.com/damienmauchamp">github</a>
     </div>
-    <div class="link" id='twitter'>
-        <a target="about_blank" href="http://twitter.com/d_mchp">@d_mchp</a>
-    </div>
+<!--    <div class="link" id='twitter'>-->
+<!--        <a target="about_blank" href="http://twitter.com/d_mchp">@d_mchp</a>-->
+<!--    </div>-->
 </div>
 </body>
 </html>
