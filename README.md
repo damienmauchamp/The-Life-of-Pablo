@@ -1,5 +1,5 @@
 # The-Life-of-Pablo
-Small project I made back in february 2016 after the release of Kanye West's eighth album.
+Small project I made back in february 2016 following the release of Kanye West's eighth album.
 
 ![screenshot](images/screenshot.png)
 
